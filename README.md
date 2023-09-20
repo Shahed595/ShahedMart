@@ -4,3 +4,6 @@
   + Add To Cart
   + Login/Logout(Authentication)
   + Check Out
+
+## Not Implemented
+  *payment gateway
